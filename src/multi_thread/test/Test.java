@@ -1,5 +1,7 @@
 package multi_thread.test;
 
+import java.util.Collections;
+
 /**
  * @ClassName: Test
  * @Description: 测试类
@@ -8,4 +10,7 @@ package multi_thread.test;
  * @Version: 1.0
  **/
 public class Test {
+    public static void main(String[] args) {
+        //Collections.synchronizedMap();
+    }
 }
