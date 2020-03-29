@@ -21,6 +21,7 @@ public class ConcurrentMap {
         /**
          * Hashtable是最老的一种实现了，默认都是加了锁的,现在已经用的非常非常少了，因为它的效率比较低
          */
+
         Map<String,String> map=new Hashtable<>();
 
         //TreeMap<String,String> map=new TreeMap<>();//树实现
