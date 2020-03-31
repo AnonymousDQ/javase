@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="546ee8f3-b543-4d76-aff3-24d2885380c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/DoubleListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/TestDoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/array/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/array/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/StackByTwoQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/linkedlist/链表LinkedList介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/链表LinkedList介绍.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,38 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestDoubleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/DoubleLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="228" column="37" selection-end-line="237" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="142" column="32" lean-forward="true" selection-start-line="140" selection-start-column="12" selection-end-line="142" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="67" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="67" />
+            <state relative-caret-position="224">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -82,9 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/multi_thread/synchronize/Synchronized_Runnable.java" />
-        <option value="$PROJECT_DIR$/src/multi_thread/synchronize/Synchronized_T.java" />
-        <option value="$PROJECT_DIR$/src/multi_thread/synchronize/Account.java" />
         <option value="$PROJECT_DIR$/src/multi_thread/synchronize/Synchronized_Sync.java" />
         <option value="$PROJECT_DIR$/src/java_annotation/自定义注解.md" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -133,12 +99,15 @@
         <option value="$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java" />
         <option value="$PROJECT_DIR$/src/algorithm/linkedlist/TestDoubleLinkedList.java" />
         <option value="$PROJECT_DIR$/src/algorithm/linkedlist/DoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/array/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/array/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linkedlist/StackByTwoQueue.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="317" />
-    <option name="y" value="40" />
+    <option name="x" value="2050" />
+    <option name="y" value="139" />
     <option name="width" value="1379" />
     <option name="height" value="791" />
   </component>
@@ -178,6 +147,13 @@
               <item name="javase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -194,7 +170,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561921054050" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../source/app-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -221,13 +197,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDoubleLinkedList">
-    <configuration name="TestArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.queue.TestArrayQueue" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.array.MergeSort" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.queue.*" />
+          <option name="PATTERN" value="algorithm.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCircleArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.queue.TestCircleArrayQueue" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.array.QuickSort" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.queue.*" />
+          <option name="PATTERN" value="algorithm.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,19 +264,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestArrayQueue" />
-      <item itemvalue="Application.TestCircleArrayQueue" />
       <item itemvalue="Application.TestSingleLinkedList" />
       <item itemvalue="Application.TestStack" />
       <item itemvalue="Application.TestDoubleLinkedList" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.QuickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.TestDoubleLinkedList" />
         <item itemvalue="Application.TestSingleLinkedList" />
         <item itemvalue="Application.TestStack" />
-        <item itemvalue="Application.TestCircleArrayQueue" />
-        <item itemvalue="Application.TestArrayQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +302,8 @@
       <workItem from="1584972061823" duration="768000" />
       <workItem from="1585302595372" duration="5891000" />
       <workItem from="1585380603271" duration="36090000" />
+      <workItem from="1585619079237" duration="99000" />
+      <workItem from="1585633973979" duration="1085000" />
     </task>
     <task id="LOCAL-00001" summary="java的自定义注解">
       <created>1561895512563</created>
@@ -348,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585478381937</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="java的数据结构">
+      <created>1585619102283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585619102283</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70948000" />
+    <option name="totallyTimeSpent" value="72132000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -364,9 +349,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="25" width="1837" height="1055" extended-state="6" />
+    <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37184522" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3676313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -375,8 +361,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45164835" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989011" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45144078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39807898" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32806325" />
@@ -427,6 +413,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java的自定义注解" />
@@ -465,13 +465,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/java/jdk1.8.0_201/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1782">
-          <caret line="243" column="19" selection-start-line="243" selection-start-column="19" selection-end-line="243" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/multi_thread/singleton/Singleton_static.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
@@ -715,13 +708,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/list/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/list/LinkList.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -754,20 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-46">
           <caret line="80" column="32" lean-forward="true" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/单链表面试题.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/单链表面试题.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -849,28 +822,58 @@
     <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="20" column="67" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="142" column="32" lean-forward="true" selection-start-line="140" selection-start-column="12" selection-end-line="142" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestDoubleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+          <caret line="20" column="67" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/DoubleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="228" column="37" selection-end-line="237" />
+        <state relative-caret-position="122">
+          <caret line="209" column="37" selection-start-line="209" selection-start-column="37" selection-end-line="209" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="142" column="32" selection-start-line="140" selection-start-column="12" selection-end-line="142" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/StackByTwoQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/array/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/array/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestDoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
