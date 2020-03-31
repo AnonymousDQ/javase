@@ -2,28 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="546ee8f3-b543-4d76-aff3-24d2885380c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/add_binary/AddTwoBinaryNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/array/ReverseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/array/SparseArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/back_tracking/EightQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/back_tracking/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/dp/ArrayMaxSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/单链表面试题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/链表LinkedList介绍.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/queue/ArrQueue的问题分析.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/queue/CircleArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/queue/TestArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/queue/TestCircleArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multi_thread/base_thread/TestRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multi_thread/base_thread/TestThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/DoubleListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/TestDoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/TestStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_thread/concurrent_container/ConcurrentMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multi_thread/concurrent_container/ConcurrentMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/linkedlist/链表LinkedList介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/linkedlist/链表LinkedList介绍.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +22,44 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestDoubleLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/DoubleLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="228" column="37" selection-end-line="237" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="142" column="32" lean-forward="true" selection-start-line="140" selection-start-column="12" selection-end-line="142" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="67" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,10 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/multi_thread/synchronize/Synchronized_Static.java" />
-        <option value="$PROJECT_DIR$/src/multi_thread/runnable.fxml" />
-        <option value="$PROJECT_DIR$/src/multi_thread/runnable/T.java" />
-        <option value="$PROJECT_DIR$/src/multi_thread/runnable/Synchronized_Runnable.java" />
         <option value="$PROJECT_DIR$/src/multi_thread/synchronize/Synchronized_Runnable.java" />
         <option value="$PROJECT_DIR$/src/multi_thread/synchronize/Synchronized_T.java" />
         <option value="$PROJECT_DIR$/src/multi_thread/synchronize/Account.java" />
@@ -105,17 +124,21 @@
         <option value="$PROJECT_DIR$/src/algorithm/read.md" />
         <option value="$PROJECT_DIR$/src/algorithm/list/链表LinkedList介绍.md" />
         <option value="$PROJECT_DIR$/src/algorithm/linkedlist/Node.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/linkedlist/链表LinkedList介绍.md" />
         <option value="$PROJECT_DIR$/src/algorithm/linkedlist/单链表面试题.md" />
         <option value="$PROJECT_DIR$/src/algorithm/linkedlist/test.md" />
-        <option value="$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linkedlist/TestStack.java" />
         <option value="$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linkedlist/链表LinkedList介绍.md" />
+        <option value="$PROJECT_DIR$/src/algorithm/linkedlist/DoubleListNode.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linkedlist/TestDoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linkedlist/DoubleLinkedList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="386" />
-    <option name="y" value="93" />
+    <option name="x" value="317" />
+    <option name="y" value="40" />
     <option name="width" value="1379" />
     <option name="height" value="791" />
   </component>
@@ -143,6 +166,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="add_binary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -157,7 +194,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561921054050" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../source/app-master" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -184,33 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSingleLinkedList">
-    <configuration name="ReverseData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.array.ReverseData" />
-      <module name="javase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SparseArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.array.SparseArr" />
-      <module name="javase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestDoubleLinkedList">
     <configuration name="TestArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.queue.TestArrayQueue" />
       <module name="javase" />
@@ -237,6 +248,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestDoubleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.linkedlist.TestDoubleLinkedList" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestSingleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.linkedlist.TestSingleLinkedList" />
       <module name="javase" />
@@ -250,20 +274,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.linkedlist.TestStack" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ReverseData" />
-      <item itemvalue="Application.SparseArr" />
       <item itemvalue="Application.TestArrayQueue" />
       <item itemvalue="Application.TestCircleArrayQueue" />
       <item itemvalue="Application.TestSingleLinkedList" />
+      <item itemvalue="Application.TestStack" />
+      <item itemvalue="Application.TestDoubleLinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDoubleLinkedList" />
         <item itemvalue="Application.TestSingleLinkedList" />
+        <item itemvalue="Application.TestStack" />
         <item itemvalue="Application.TestCircleArrayQueue" />
         <item itemvalue="Application.TestArrayQueue" />
-        <item itemvalue="Application.SparseArr" />
-        <item itemvalue="Application.ReverseData" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +325,7 @@
       <workItem from="1584854233670" duration="4124000" />
       <workItem from="1584972061823" duration="768000" />
       <workItem from="1585302595372" duration="5891000" />
-      <workItem from="1585380603271" duration="19503000" />
+      <workItem from="1585380603271" duration="36090000" />
     </task>
     <task id="LOCAL-00001" summary="java的自定义注解">
       <created>1561895512563</created>
@@ -304,11 +341,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563758369079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java的数据结构">
+      <created>1585478381937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585478381937</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54361000" />
+    <option name="totallyTimeSpent" value="70948000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -322,7 +366,7 @@
   <component name="ToolWindowManager">
     <frame x="83" y="25" width="1837" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37184522" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37184522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -337,10 +381,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32806325" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.4643963" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.23406594" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="SBT Execute" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -358,10 +402,37 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java的自定义注解" />
     <MESSAGE value="java的并发编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="java的并发编程" />
+    <MESSAGE value="java的数据结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="java的数据结构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -372,50 +443,28 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java</url>
+          <line>318</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java</url>
+          <line>295</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/multi_thread/test/ticketseller/TicketSeller1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="611" column="74" lean-forward="true" selection-start-line="611" selection-start-column="74" selection-end-line="611" selection-end-column="74" />
-          <folding>
-            <element signature="e#7928#7929#0" expanded="true" />
-            <element signature="e#8014#8015#0" expanded="true" />
-            <element signature="e#10037#10038#0" expanded="true" />
-            <element signature="e#10084#10085#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multi_thread/test/ticketseller/TicketSeller4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multi_thread/singleton/Singleton_synchronized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/java/jdk1.8.0_201/src.zip!/java/util/Hashtable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1782">
@@ -645,13 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/add_binary/AddTwoBinaryNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/dp/ArrayMaxSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-451">
@@ -673,17 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/queue/ArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="120" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="120" selection-end-column="5" />
-          <folding>
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1110#1111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/list/LinkList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="984">
@@ -698,33 +729,6 @@
             <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/queue/ArrQueue的问题分析.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="264">
-            <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/链表LinkedList介绍.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="343">
-            <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -777,24 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -802,6 +788,89 @@
             <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/queue/ArrQueue的问题分析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2784">
+          <caret line="120" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="120" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/add_binary/AddTwoBinaryNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/链表LinkedList介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/DoubleListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestSingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="67" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/SingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="142" column="32" lean-forward="true" selection-start-line="140" selection-start-column="12" selection-end-line="142" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/TestDoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linkedlist/DoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="228" column="37" selection-end-line="237" />
         </state>
       </provider>
     </entry>
