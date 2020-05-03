@@ -26,14 +26,18 @@ public class QuickSort {
             return nums;
         }
         int privo = nums[(start + end) / 2];
+        //双指针
         int left = start, right = end;
         while (left <= right) {
+            //双指针，只要最左边小于基准值，则往右边移动left++
             while (left <= right && nums[left] < privo) {
                 left++;
             }
+            //只要右边的元素大于基准值，则往左边移动right--
             while (left <= right && nums[right] > privo) {
                 right--;
             }
+            //直到两个移动位置重合，然后交换位置
             if (left <= right) {
                 int temp = nums[left];
                 nums[left] = nums[right];
